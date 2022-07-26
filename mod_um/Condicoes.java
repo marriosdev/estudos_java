@@ -5,7 +5,7 @@ public class Condicoes {
         if((1+1) == 3) {
             System.out.println("é: " + (1+1));
         } else if(false) {
-            System.out.println("Façlse");
+            System.out.println("False");
         } else{
             System.out.println("Não é 3, é "+(1+1));
         }
